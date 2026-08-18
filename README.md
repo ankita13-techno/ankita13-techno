@@ -1,4 +1,5 @@
 👋 **Hi, I'm Ankita Khetre**
+
 I'm an AI Engineer and Full-Stack Developer based in Pune, India, currently pursuing my B.Tech in Information Technology at Zeal College of Engineering. I specialize in building at the intersection of full-stack architecture, machine learning, and computer vision—transforming complex data into seamless, user-first digital solutions.
 
 🚀 **Current Focus**
